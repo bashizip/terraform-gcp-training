@@ -1,0 +1,2 @@
+terraform import module.instances.google_compute_instance.tf-instance-1 qwiklabs-gcp-03-fabe5a263aed/us-west1-a/tf-instance-1
+terraform import module.instances.google_compute_instance.tf-instance-2 qwiklabs-gcp-03-fabe5a263aed/us-west1-a/tf-instance-2
